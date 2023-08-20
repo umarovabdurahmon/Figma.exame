@@ -1,0 +1,234 @@
+.page5 {
+  nav {
+    .navbar3 {
+      display: flex;
+      height: 41px;
+      padding: 8px 16px 9px 400px;
+      justify-content: flex-end;
+      align-items: center;
+      gap: 530px;
+      text-align: center;
+      height: 40px;
+      background: #2a254b;
+      color: #fff;
+      span {
+        // text-align: center;
+        .fa-solid {
+          margin-right: 10px;
+        }
+        small {
+          font-size: 14px;
+          font-weight: 400;
+        }
+      }
+      .btn-close {
+        color: #fff;
+      }
+    }
+    .navbar-3 {
+      justify-content: space-between;
+      display: flex;
+      height: 80px;
+      align-items: center;
+      h3 {
+        color: #22202e;
+        font-size: 24px;
+        font-weight: 400;
+      }
+      .nav-item {
+        .navbar-item {
+          margin-left: 800px;
+          display: flex;
+          gap: 44px;
+          align-items: center;
+          //   margin-right: 130px;
+          margin-top: 15px;
+          li {
+            a {
+              color: #726e8d;
+              font-size: 16px;
+            }
+          }
+        }
+      }
+      .navbar-ong {
+        .fa-solid {
+          padding-right: 16px;
+        }
+      }
+    }
+  }
+}
+.nav-qator {
+  display: flex;
+  background: #f9f9f9;
+  height: 60px;
+  align-items: center;
+  flex-shrink: 0;
+  .navbar-item {
+    li {
+      a {
+        color: #726e8d;
+        font-size: 16px;
+      }
+    }
+  }
+}
+.header-text {
+  display: flex;
+  width: 1440px;
+  height: 246px;
+  padding: 67px 369px 79px 367px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  h2 {
+    color: #2a254b;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 140%;
+  }
+}
+.craftmanship {
+  .left {
+    padding: 72px 100px 54px 0px;
+    align-items: flex-start;
+    h3 {
+      color: #2a254b;
+      font-size: 24px;
+      font-weight: 400;
+      line-height: 140%;
+      margin-bottom: 25px;
+    }
+    p {
+      width: 536px;
+      color: #505977;
+      font-size: 16px;
+      margin-bottom: 190px;
+    }
+    button {
+      border: none;
+      padding: 16px 32px;
+      background: #f9f9f9;
+      color: #2a254b;
+      font-size: 16px;
+      line-height: 150%;
+    }
+  }
+}
+.different5 {
+  padding: 60px 0 86px 0;
+  h3 {
+    color: #2a254b;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 140%;
+    margin-bottom: 50px;
+  }
+  .row {
+    .col-3 {
+      .fa-solid {
+        margin-bottom: 16px;
+      }
+      .fa-regular {
+        margin-bottom: 16px;
+      }
+      h5 {
+        color: #2a254b;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 140%;
+      }
+      p {
+        width: 270px;
+        color: #2a254b;
+        font-size: 16px;
+        line-height: 150%;
+      }
+    }
+  }
+}
+.club {
+  position: relative;
+  background: url(../image/Image111.png) no-repeat center center / cover;
+  padding: 270px;
+  .input {
+    position: absolute;
+    margin-left: 190px;
+    margin-top: 100px;
+    input {
+      border: none;
+      padding: 17px 265px 17px 32px;
+      align-items: center;
+      background: #f9f9f9;
+    }
+    button {
+      background: #2a254b;
+      border: none;
+      padding: 16px 32px;
+      color: #fff;
+      font-size: 16px;
+      line-height: 150%;
+    }
+  }
+}
+footer {
+  background: #2a254b;
+  .row {
+    padding: 58px 83px 48px 0;
+    border-bottom: 1px solid #4e4d93;
+    .col-2 {
+      flex-direction: column;
+      color: #fff;
+      h6 {
+        font-size: 16px;
+        padding-bottom: 10px;
+      }
+      p {
+        font-size: 14px;
+        font-weight: 400;
+      }
+    }
+    .col-6 {
+      p {
+        color: #fff;
+        font-size: 16px;
+      }
+      input {
+        border: none;
+        padding: 17px 265px 17px 32px;
+        align-items: center;
+        background: rgba(255, 255, 255, 0.15);
+      }
+      button {
+        border: none;
+        padding: 16px 32px;
+        color: #2a254b;
+        font-size: 16px;
+        line-height: 150%;
+      }
+    }
+  }
+  .footer-social {
+    height: 70px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    .footer-text {
+      small {
+        color: #fff;
+        font-size: 14px;
+        font-weight: 400;
+      }
+    }
+    .footer-website {
+      .fa-brands {
+        padding-left: 24px;
+        font-size: 20px;
+        color: white;
+      }
+    }
+  }
+}
